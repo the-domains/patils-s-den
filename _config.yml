@@ -1,0 +1,28 @@
+name: "Patils's den"
+favicon: null
+layout_spectrum: 0.12069559236988425
+typography_spectrum: 0.9697856036946177
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.02846588520333171
+  lightness: 0.35807940550148487
+  saturation: 0.1542275429237634
+  rhythmicContrast: 0.6955912921112031
+purpose: []
